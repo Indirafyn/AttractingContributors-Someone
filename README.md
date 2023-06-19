@@ -19,6 +19,7 @@ I'm a ramen lover, so I'll go there!
 - フタツメ (新潟県)
 - 長浜ラーメン
 - 麺屋 帆のる
+- 中華そば おしたに
 -
 -
 -
