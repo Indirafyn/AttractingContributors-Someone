@@ -40,6 +40,7 @@ You can insert any name you prefer, whether it's a real name or an anonymous des
 9. Isaac Newton
 10. Shigeru Miyamoto
 11. Barack Obama
+12. Nakayama Kinnikun
 
 
 # Rules
